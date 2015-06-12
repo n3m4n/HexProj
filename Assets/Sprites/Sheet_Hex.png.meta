@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 882661614b5a094409eb1de4c3cb1dc2
+timeCreated: 1433540422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sheet_Hex_0
+    21300002: Sheet_Hex_1
+    21300004: Sheet_Hex_2
+    21300006: Sheet_Hex_3
+    21300008: Sheet_Hex_4
+    21300010: Sheet_Hex_5
+    21300012: Sheet_Hex_6
+    21300014: Sheet_Hex_7
+    21300016: Sheet_Hex_8
+    21300018: Sheet_Hex_9
+    21300020: Sheet_Hex_10
+    21300022: Sheet_Hex_11
+    21300024: Sheet_Hex_12
+    21300026: Sheet_Hex_13
+    21300028: Sheet_Hex_14
+    21300030: Sheet_Hex_15
+    21300032: Sheet_Hex_16
+    21300034: Sheet_Hex_17
+    21300036: Sheet_Hex_18
+    21300038: Sheet_Hex_19
+    21300040: Sheet_Hex_20
+    21300042: Sheet_Hex_21
+    21300044: Sheet_Hex_22
+    21300046: Sheet_Hex_23
+    21300048: Sheet_Hex_24
+    21300050: Sheet_Hex_25
+    21300052: Sheet_Hex_26
+    21300054: Sheet_Hex_27
+    21300056: Sheet_Hex_28
+    21300058: Sheet_Hex_29
+    21300060: Sheet_Hex_30
+    21300062: Sheet_Hex_31
+    21300064: Sheet_Hex_32
+    21300066: Sheet_Hex_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sheet_Hex_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 803
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 813
+        width: 155
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 822
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 837
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 872
+        width: 91
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_5
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 873
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_6
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 877
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_7
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 877
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_8
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 873
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 567
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 576
+        width: 155
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_11
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 585
+        width: 140
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_12
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 601
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_13
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 629
+        width: 91
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_14
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 630
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_15
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 634
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_16
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 634
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_17
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 630
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 330
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 339
+        width: 155
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_20
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 348
+        width: 140
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 364
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_22
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 389
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_23
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 390
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_24
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 393
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_25
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 394
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_26
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 390
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 84
+        width: 173
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 152
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_29
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 105
+        width: 136
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_30
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 119
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_31
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 147
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_32
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 147
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sheet_Hex_33
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

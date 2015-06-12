@@ -1,0 +1,28 @@
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Public\Documents\Unity Projects\Hex\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Public\Documents\Unity Projects\Hex\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\Hex\obj\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\Hex\obj\Debug\Assembly-CSharp.pdb
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\UnityEditor.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\UnityEngine.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Hex\Hex\obj\Debug\Assembly-CSharp.dll
+C:\Users\user\Documents\GitHub\Hex\Hex\obj\Debug\Assembly-CSharp.pdb
